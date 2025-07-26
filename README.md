@@ -28,5 +28,6 @@ ai-chatbot-saas
 ├── docker-compose.yml   # Multi-container Docker setup
 ├── .env                 # Environment variables
 └── README.md
-```
+
+I HOPE MY CHATBOT APP WILL BE USEFL FOR ALL YOU GUYS <3
 
